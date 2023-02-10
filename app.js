@@ -4,7 +4,7 @@ const app = express()
 
 
 app.get('/', (req, res)=>{
-	res.send("testing pipeline ");
+	res.send("Texanu ");
 })
 
 
